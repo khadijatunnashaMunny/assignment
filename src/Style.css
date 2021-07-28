@@ -18,6 +18,9 @@ p.text-dark.h2.textt.pt-2 {
     color: black;
     margin-top: 50px;
 }
+.list{
+	display:flex;
+}
 .flex-container {
   display: flex;
 }
@@ -92,4 +95,50 @@ p.text-dark.h2.textt.pt-2 {
 }
 .textt{
 	text-align: center;
+}
+.list-item {
+margin-left: 100px;
+
+} 
+.list-item li{
+    text-decoration: none;
+
+}
+.hhh{
+	margin: 0px;
+	padding: 0px;
+	margin-left: 100px;
+}
+.ppp{
+	margin-left: 350px;
+}
+.pp{
+	margin-left: 400px;
+
+}
+.tex{	
+	margin-left: 250px;
+} 
+.mm{
+	display: flex;
+}
+.leftlist{
+	border: 1px solid rgb(3, 3, 3);
+
+}
+.rightlist{
+	padding-right: 0px;
+	border-top: 1px solid rgb(207, 205, 205);
+
+}
+.item{
+	margin: 0px;
+	padding: 0px;
+}
+.area{
+	background-color: rgb(248, 236, 184);
+}
+.w3-dropdown-hover:first-child, .w3-dropdown-click:hover {
+    background-color: rgb(255, 255, 255);
+    color: #000;
 }
